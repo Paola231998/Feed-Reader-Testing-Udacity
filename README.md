@@ -4,7 +4,7 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 
 # How to run the Project
 
-- Clone the repository 
+- Clone the repository using `git clone https://github.com/Paola231998/Feed-Reader-Testing-Udacity.git`
 - Open index.html in your browser.
 
 # Technologies Used
